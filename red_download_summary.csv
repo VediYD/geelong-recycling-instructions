@@ -1,0 +1,90 @@
+sub_material,target_count,download_count,target_met,download_path
+binders,100.0,57,False,geelong-recycling-instructions/images/red/binders
+long life containers,100.0,45,False,geelong-recycling-instructions/images/red/long life containers
+milk carton,100.0,45,False,geelong-recycling-instructions/images/red/milk carton
+dry pet food bags,100.0,54,False,geelong-recycling-instructions/images/red/dry pet food bags
+padded envelope bags,100.0,61,False,geelong-recycling-instructions/images/red/padded envelope bags
+light globes,100.0,44,False,geelong-recycling-instructions/images/red/light globes
+juice carton,100.0,47,False,geelong-recycling-instructions/images/red/juice carton
+cat and dog food pouches,100.0,47,False,geelong-recycling-instructions/images/red/cat and dog food pouches
+prima drink cartons,100.0,52,False,geelong-recycling-instructions/images/red/prima drink cartons
+christmas decorations,100.0,27,False,geelong-recycling-instructions/images/red/christmas decorations
+tetra pak,100.0,48,False,geelong-recycling-instructions/images/red/tetra pak
+plastic clothes pegs,50.0,49,False,geelong-recycling-instructions/images/red/plastic clothes pegs
+plastic document sleeves,50.0,45,False,geelong-recycling-instructions/images/red/plastic document sleeves
+plastic cutlery,50.0,50,True,geelong-recycling-instructions/images/red/plastic cutlery
+plastic code number 7 other,50.0,50,True,geelong-recycling-instructions/images/red/plastic code number 7 other
+plastic code number 6 ps,50.0,50,True,geelong-recycling-instructions/images/red/plastic code number 6 ps
+magazine and newspaper wrapping (plastic),50.0,43,False,geelong-recycling-instructions/images/red/magazine and newspaper wrapping (plastic)
+plastic bags,50.0,50,True,geelong-recycling-instructions/images/red/plastic bags
+plastic australia post satchels,50.0,46,False,geelong-recycling-instructions/images/red/plastic australia post satchels
+photographs,50.0,39,False,geelong-recycling-instructions/images/red/photographs
+polystyrene cup,50.0,50,True,geelong-recycling-instructions/images/red/polystyrene cup
+inflatable plastic items,50.0,50,True,geelong-recycling-instructions/images/red/inflatable plastic items
+garden hose,50.0,48,False,geelong-recycling-instructions/images/red/garden hose
+fruit and vegetable net bag,50.0,50,True,geelong-recycling-instructions/images/red/fruit and vegetable net bag
+frozen food bags,50.0,50,True,geelong-recycling-instructions/images/red/frozen food bags
+freezer bags,50.0,48,False,geelong-recycling-instructions/images/red/freezer bags
+plastic food wrapping,50.0,41,False,geelong-recycling-instructions/images/red/plastic food wrapping
+pvc pipe,50.0,50,True,geelong-recycling-instructions/images/red/pvc pipe
+polystyrene meat trays,50.0,50,True,geelong-recycling-instructions/images/red/polystyrene meat trays
+nappies,50.0,50,True,geelong-recycling-instructions/images/red/nappies
+rubber hot water bottles,50.0,37,False,geelong-recycling-instructions/images/red/rubber hot water bottles
+rubber foam,50.0,50,True,geelong-recycling-instructions/images/red/rubber foam
+handbags,50.0,47,False,geelong-recycling-instructions/images/red/handbags
+fridge magnets,50.0,45,False,geelong-recycling-instructions/images/red/fridge magnets
+dog poo,50.0,30,False,geelong-recycling-instructions/images/red/dog poo
+disposal cigarette lighters,50.0,36,False,geelong-recycling-instructions/images/red/disposal cigarette lighters
+disposable gloves (latex and rubber),50.0,49,False,geelong-recycling-instructions/images/red/disposable gloves (latex and rubber)
+rugs,50.0,43,False,geelong-recycling-instructions/images/red/rugs
+mats,50.0,50,True,geelong-recycling-instructions/images/red/mats
+potting mix and compost bags,50.0,50,True,geelong-recycling-instructions/images/red/potting mix and compost bags
+clothing,50.0,28,False,geelong-recycling-instructions/images/red/clothing
+video tape,50.0,42,False,geelong-recycling-instructions/images/red/video tape
+video cassette cover,50.0,36,False,geelong-recycling-instructions/images/red/video cassette cover
+vhs tapes,50.0,41,False,geelong-recycling-instructions/images/red/vhs tapes
+strapping (plastic),50.0,50,True,geelong-recycling-instructions/images/red/strapping (plastic)
+snap lock bags / zip lock bags,50.0,50,True,geelong-recycling-instructions/images/red/snap lock bags  zip lock bags
+silicone kitchen utensils,50.0,50,True,geelong-recycling-instructions/images/red/silicone kitchen utensils
+pvc piping,50.0,50,True,geelong-recycling-instructions/images/red/pvc piping
+foam meat trays,50.0,50,True,geelong-recycling-instructions/images/red/foam meat trays
+cereal box liners,50.0,46,False,geelong-recycling-instructions/images/red/cereal box liners
+disposable nappies,50.0,50,True,geelong-recycling-instructions/images/red/disposable nappies
+mirror,50.0,38,False,geelong-recycling-instructions/images/red/mirror
+fruit,50.0,29,False,geelong-recycling-instructions/images/red/fruit
+food waste,50.0,30,False,geelong-recycling-instructions/images/red/food waste
+food scraps,50.0,31,False,geelong-recycling-instructions/images/red/food scraps
+animal (droppings),50.0,40,False,geelong-recycling-instructions/images/red/animal (droppings)
+bread bag wire ties,50.0,44,False,geelong-recycling-instructions/images/red/bread bag wire ties
+window glass,50.0,50,True,geelong-recycling-instructions/images/red/window glass
+perfume bottles and jars,50.0,50,True,geelong-recycling-instructions/images/red/perfume bottles and jars
+drinking glasses,50.0,44,False,geelong-recycling-instructions/images/red/drinking glasses
+vegetable peels,50.0,37,False,geelong-recycling-instructions/images/red/vegetable peels
+broken glass,50.0,39,False,geelong-recycling-instructions/images/red/broken glass
+treated pine,50.0,50,True,geelong-recycling-instructions/images/red/treated pine
+smoke detectors,50.0,50,True,geelong-recycling-instructions/images/red/smoke detectors
+negatives,50.0,43,False,geelong-recycling-instructions/images/red/negatives
+waxed ice cream containers,50.0,0,False,geelong-recycling-instructions/images/red/waxed ice cream containers
+waxed  boxes,50.0,50,True,geelong-recycling-instructions/images/red/waxed  boxes
+kitty litter,50.0,48,False,geelong-recycling-instructions/images/red/kitty litter
+tea bags,50.0,46,False,geelong-recycling-instructions/images/red/tea bags
+baking paper,50.0,50,True,geelong-recycling-instructions/images/red/baking paper
+coffee pods,50.0,28,False,geelong-recycling-instructions/images/red/coffee pods
+bean bag beans,50.0,50,True,geelong-recycling-instructions/images/red/bean bag beans
+cling wrap,50.0,43,False,geelong-recycling-instructions/images/red/cling wrap
+chip packet,50.0,46,False,geelong-recycling-instructions/images/red/chip packet
+cassette tapes,50.0,32,False,geelong-recycling-instructions/images/red/cassette tapes
+bubble wrap,50.0,49,False,geelong-recycling-instructions/images/red/bubble wrap
+bread bags,50.0,38,False,geelong-recycling-instructions/images/red/bread bags
+blister packs,50.0,42,False,geelong-recycling-instructions/images/red/blister packs
+black plastic containers,50.0,50,True,geelong-recycling-instructions/images/red/black plastic containers
+tissues,50.0,50,True,geelong-recycling-instructions/images/red/tissues
+confectionery wrapper,50.0,43,False,geelong-recycling-instructions/images/red/confectionery wrapper
+shredded paper,50.0,50,True,geelong-recycling-instructions/images/red/shredded paper
+serviettes,50.0,38,False,geelong-recycling-instructions/images/red/serviettes
+paper towel,50.0,46,False,geelong-recycling-instructions/images/red/paper towel
+napkins,50.0,34,False,geelong-recycling-instructions/images/red/napkins
+laminated paper,50.0,50,True,geelong-recycling-instructions/images/red/laminated paper
+fish & chips paper,50.0,47,False,geelong-recycling-instructions/images/red/fish & chips paper
+deli paper,50.0,50,True,geelong-recycling-instructions/images/red/deli paper
+vacuum cleaner dust,50.0,50,True,geelong-recycling-instructions/images/red/vacuum cleaner dust
